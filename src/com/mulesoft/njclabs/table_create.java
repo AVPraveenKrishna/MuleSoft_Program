@@ -13,7 +13,7 @@ public class table_create
 				" actor VARCHAR(20), " + 
 				" actress VARCHAR(20), " + " director VARCHAR(20), " +  "Release_Year INT )";
 		
-		String url = "jdbc:mysql://localhost:3301/";
+		String url = "jdbc:mysql://localhost:3301/mulesoft";
 		String uname = "admin";
 		String pass  = "ADMIN";
 		
