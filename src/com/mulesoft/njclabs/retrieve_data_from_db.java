@@ -9,7 +9,7 @@ public class retrieve_data_from_db
 {
 	public static void main(String[] args) throws Exception
 	{ 
-		String url = "jdbc:mysql://localhost:3301/";
+		String url = "jdbc:mysql://localhost:3301/mulesoft";
 		String uname = "admin";
 		String pass  = "ADMIN";
 
