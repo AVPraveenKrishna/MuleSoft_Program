@@ -8,7 +8,7 @@ public class insert_data_into_table
 {
 	public static void main(String[] args) throws Exception
 	{
-		String url = "jdbc:mysql://localhost:3301/";
+		String url = "jdbc:mysql://localhost:3301/mulesoft";
 		String uname = "admin";
 		String pass  = "ADMIN";
 		String query = "INSERT INTO movies values('Inception','Matthew','Marion','Nolan',2010)";
